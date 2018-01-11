@@ -1,2 +1,2 @@
 # Define the variable board below.
-lib/board.rb = 
+board = ["position one", "position two","position three","position four", "position five", "position six","position seven","position eight","position nine"]
