@@ -1,2 +1,2 @@
 # Define the variable board below.
-board = ["x","o","x","o","x","o","x","o","x"]
+lib/board.rb = ["x","o","x","o","x","o","x","o","x"]
